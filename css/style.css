@@ -1,0 +1,26 @@
+.header, .hero, .body,.bar,.footer{
+	background-color: lightpink;
+	margin-bottom: 10px;
+}
+
+
+.box{
+	margin: 10px 0;
+	min-height: 80px;
+	background-color: aqua;
+	font-size: 30px;
+	border: 6px solid green;
+	
+
+
+}
+
+.m{
+	box-shadow: 0 0 0 5px  transparent,
+	           inset 0 0 0 5px #bfff00;
+
+
+}
+.red{
+	background-color: red;
+}
